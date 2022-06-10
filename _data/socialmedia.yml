@@ -23,6 +23,11 @@
   class: icon-linkedin
   title: "LinkedIn"
   
+- name: Flickr
+  url: https://www.flickr.com/photos/30214152@N06/albums
+  class: icon-flicker
+  title: "Flickr"
+  
 # - name: Facebook
 #   url: http://www.facebook.com/
 #   class: icon-facebook
