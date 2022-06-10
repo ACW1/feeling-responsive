@@ -11,12 +11,12 @@
 - name: Twitter
   url: http://twitter.com/a1c1w1
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+- name: Instagram
+  url: http://https://www.instagram.com/tuerluer/
   class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: "Instagram"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
