@@ -1,12 +1,12 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+# - name: GitHub
+#  url: http://github.com/phlow
+#  class: icon-github
+#  title: Code und mehr...
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+# - name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
   url: https://twitter.com/a1c1w1
@@ -18,6 +18,11 @@
   class: icon-instagram
   title: "Instagram"
 
+- name: LinkedIn
+  url: https://www.linkedin.com/in/arthurvk/
+  class: icon-linkedin
+  title: "LinkedIn"
+  
 # - name: Facebook
 #   url: http://www.facebook.com/
 #   class: icon-facebook
