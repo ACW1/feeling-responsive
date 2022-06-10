@@ -25,7 +25,7 @@
   
 - name: Flickr
   url: https://www.flickr.com/photos/30214152@N06/albums
-  class: icon-flicker
+  class: icon-flickr
   title: "Flickr"
   
 # - name: Facebook
